@@ -28,3 +28,48 @@
    padding: 5px; /* If you add too much padding here, the options won't show in IE */
    width: 268px;
 }
+
+
+.shipmentDetailView label {
+  display: inline-flex;
+  width: 40%
+}
+
+.shipmentDetailView ul {
+  display: inline-block;
+  font-family: initial;
+  font-size: 15px;
+
+}
+
+.shipmentDetailView form {
+  font-size: 18px;
+  font-family: fantasy;
+  color: #3a3e3f;
+}
+.shipmentDetailView form .custome-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 10%;
+  margin-top: 1%;
+}
+
+
+.listContainer form .custome-button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 1%;
+  margin-top: 1%;
+}
